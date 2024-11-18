@@ -1,0 +1,1 @@
+My prior experiences with CI/CD include using Github and working in a shared repository with other teammates. In a shared repository, before I can commit any changes, there are many automated tests that GitHub will run to ensure that my code does not break any existing functionality.
